@@ -26,10 +26,4 @@ router.get('/', (req, res, next)=>{
     })
 })
 
-<<<<<<< HEAD
 module.exports = router
-// 페이지 추가 마스터
-=======
-// 신입생 추가
-module.exports = router
->>>>>>> 83faf94f9800917bb2291a867790261ab2f88a06
