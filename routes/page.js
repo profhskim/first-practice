@@ -26,4 +26,5 @@ router.get('/', (req, res, next)=>{
     })
 })
 
+// 신입생 추가
 module.exports = router
