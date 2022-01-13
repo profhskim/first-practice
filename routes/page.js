@@ -27,3 +27,4 @@ router.get('/', (req, res, next)=>{
 })
 
 module.exports = router
+// 페이지 추가 마스터
